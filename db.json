@@ -1,0 +1,47 @@
+{
+  "accessorie": {
+    "urls": [
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/accessorie_1.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/accessorie_2.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/accessorie_3.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/accessorie_4.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/accessorie_5.png"
+    ]
+  },
+  "body": {
+    "urls": [
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/body_1.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/body_2.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/body_3.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/body_4.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/body_5.png"
+    ]
+  },
+  "eyes": {
+    "urls": [
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/eyes_1.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/eyes_2.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/eyes_3.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/eyes_4.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/eyes_5.png"
+    ]
+  },
+  "mouth": {
+    "urls": [
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/mouth_1.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/mouth_2.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/mouth_3.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/mouth_4.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/mouth_5.png"
+    ]
+  },
+  "fur": {
+    "urls": [
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/fur_1.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/fur_2.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/fur_3.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/fur_4.png",
+      "https://raw.githubusercontent.com/akndmr/mock/master/res/fur_5.png"
+    ]
+  }
+}
